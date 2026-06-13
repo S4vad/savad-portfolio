@@ -28,7 +28,7 @@ export default function Page() {
         "Built and shipped HUE Free Gift Upsell, a production-grade Shopify app — engineered the full-stack architecture using Remix and React on the frontend with a MongoDB-backed Node.js backend.",
         "Implemented campaign logic for free gift, BOGO, and Buy X Get Y flows with flexible rule-based triggers across product pages, cart, and pop-up placements.",
       ],
-      logoUrl: "/helixo.jpeg",
+      logoUrl: "/helixo_logo.jpg",
       companyUrl: "https://helixo.co",
     },
   ]
