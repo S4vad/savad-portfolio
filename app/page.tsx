@@ -102,6 +102,8 @@ export default function Page() {
                     </div>
                     <h1 className="text-lg sm:text-2xl md:text-3xl font-medium tracking-tight text-neutral-900 dark:text-neutral-50">
                       Muhammed Savad
+                      <br />
+                      <p className="flex flex-wrap items-center mt-1 gap-2 sm:gap-5 md:gap-5 text-xs text-neutral-600 dark:text-neutral-400">aka S4vad</p>
                     </h1>
                   </div>
                 </SlideInLeft>
